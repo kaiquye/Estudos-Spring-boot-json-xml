@@ -1,0 +1,4 @@
+export enum ETeam {
+  AVENGERS = "AVENGERS",
+  JUSTICE_LEAGUE = "JUSTICE_LEAGUE",
+}
